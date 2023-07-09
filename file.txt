@@ -1,0 +1,10 @@
+hello GIT
+Second line added
+Third line added
+now DEV branch talking
+
+hello from master
+
+hello from dev branch
+
+
